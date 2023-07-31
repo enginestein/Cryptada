@@ -26,7 +26,7 @@ You can include the `lib.ads` file in your project which has following functions
    function Theoretical_Rot13(Text : String) return String; -- Rot 13 second version
 ```
 
-## Another_Rot13
+## Another_Rot13 (Rot13)
 
 ```ada
 procedure Main is
@@ -52,7 +52,7 @@ begin
 end Main;
 ```
 
-## Main
+## Main (Base-Advanced encryption and decryption)
 
 ```ada
 procedure Main is
@@ -75,7 +75,7 @@ begin
 end Main;
 ```
 
-## Theoretical_Rot13
+## Theoretical_Rot13 (Rot 13 second version)
 
 ```ada
 procedure Main is
@@ -91,7 +91,7 @@ end Main;
 
 ```
 
-## transposition
+## transposition (Transposition encryption and decryption)
 
 ```ada
 procedure Main is
@@ -114,7 +114,7 @@ begin
 end Main;
 ```
 
-## utils
+## utils (Utility functions)
 
 ```ada
 procedure Main is
