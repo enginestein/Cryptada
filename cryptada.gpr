@@ -1,4 +1,5 @@
 project Cryptada is
    for Source_Dirs use ("adv");
    for Object_Dir use "adv";
+   for Main use ("lib.ads");
 end Cryptada;
